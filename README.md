@@ -25,4 +25,4 @@ Construir projetos Python diante do Bootcamp.
 
 
 ##
-<div align="center">Feito por <a href="https://github.com/NicolasPaumgartten">Nic</a>.</div>
+<div align="center">Feito por <a href="https://github.com/NicolasPaumgartten">Nicolas</a>.</div>
